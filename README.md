@@ -1,4 +1,4 @@
-# networkwalks-week1-practical-lab-setup
+
 
 
 # Week 1: Practical Lab Environment Setup
